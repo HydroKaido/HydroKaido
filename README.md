@@ -1,6 +1,6 @@
 # 👋 Welcome to HydroTolerance's GitHub Profile!
 
-Hi! I'm Mohammad Jul Hafiz Arola, and I hate Monday! 😅
+Hi! I'm Mohammad Jul Hafiz Arola
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HydroTolerance&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/HydroTolerance?label=Followers)
