@@ -29,14 +29,3 @@ Hi! I'm Mohammad Jul Hafiz Arola
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HydroTolerance&layout=compact&theme=radical)
-
-## 🔥 Pinned Repositories
-- [🌟 Portfolio](https://github.com/HydroTolerance/Portfolio): Showcase of my work, passion, and journey.
-- [🌟 caps](https://github.com/HydroTolerance/caps): Capstone project for an appointment system and client monitoring.
-- [🌟 Naval_Conquest](https://github.com/HydroTolerance/Naval_Conquest): Multiplayer ping pong game created with Unity.
-- [🌟 Pokemon_Api](https://github.com/HydroTolerance/Pokemon_Api): Pokemon Pokedex integrated using pokeapi.
-
-Thank you for visiting my profile. Have a great day! 😊
