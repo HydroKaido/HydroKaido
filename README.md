@@ -3,8 +3,8 @@
 Hi! I'm Mohammad Jul Hafiz Arola
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HydroTolerance&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/HydroTolerance?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/HydroTolerance?label=Stars)
+![GitHub Followers](https://img.shields.io/github/followers/HydroKaido?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/HydroKaido?label=Stars)
 
 ## 🚀 About Me
 - 🌱 I strive to learn something new every day and share my knowledge with others.
